@@ -1,0 +1,13 @@
+Principle of operation of 5-speed gearbox:
+
+- Mode N: the gears of the middle axis "are not attached to" the gears of axis 3 (the inner axis, is attached to the motor), so the middle axis and the 1- axis axis in the outermost are not turned.
+
+- Mode 1: First gear (R = 3cm) (from left) of axis 3 "attached to" third gear (R = 3cm) of the middle axis and first gear (R = 2cm)  of the middle axis "attached" to the first gear (R = 4cm) of the first axis (outermost axis) so that the reel rotates (the slowest speed).
+
+- Mode 2: Second gear (R = 3cm) of axis 1 "attached to" third gear (R = 3cm) of the middle axis and second gear (R = 2.5cm) of the middle axis " attach to the "second gear (R = 3.5cm) of the first axis (outermost axis) the rotating axis (faster speed than mode 1).
+
+- Mode 3: Third gear (R = 3cm) of axis 1 + third gear (R = 3cm) of the middle axis + third gear (R = 3cm) of the first axis (outer axis) "attach to each other" rotation axis (faster speed than Mode 2 and equal to the speed of motor).
+
+- Mode 4: Fourth gear (R = 3.5cm) of axis 1 "attached to" fourth gear (R = 2.5cm) of the middle axis and third gear (R = 3cm) of the middle axis "attached to" the fourth gear (R = 3cm) of the first axis (outer axis) the rotating axis (faster speed than mode 3).
+
+- Mode 5: Fifth gear (R = 4cm) of axis 1 "attached to" fifth gear (R = 2cm) of the middle axis and third gear (R = 3cm) of the middle axis "mounted into the "fifth gear (R = 3cm) of the first axis (outermost axis) the rotating axis (fastest speed)
