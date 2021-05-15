@@ -11,3 +11,15 @@ Principle of operation of 5-speed gearbox:
 - Mode 4: Fourth gear (R = 3.5cm) of axis 1 "attached to" fourth gear (R = 2.5cm) of the middle axis and third gear (R = 3cm) of the middle axis "attached to" the fourth gear (R = 3cm) of the first axis (outer axis) the rotating axis (faster speed than mode 3).
 
 - Mode 5: Fifth gear (R = 4cm) of axis 1 "attached to" fifth gear (R = 2cm) of the middle axis and third gear (R = 3cm) of the middle axis "mounted into the "fifth gear (R = 3cm) of the first axis (outermost axis) the rotating axis (fastest speed)
+
+Checkpoint 1
+-choose the project 
+-create a new folder on github with the name of your project
+-divide project into components
+
+Checkpoint 2
+-the box and one test gear 
+
+Checkpoint 3
+-all the gears,holders,shifter,holder are in place.
+
